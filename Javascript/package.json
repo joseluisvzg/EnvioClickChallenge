@@ -1,0 +1,16 @@
+{
+    "name": "Javascript Challenge",
+    "version": "0.0.1",
+    "description": "Useful functions",
+    "main": "src/index.js",
+    "author": "José Luis",
+    "license": "ISC",
+    "dependencies": {},
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "mocha"
+    },
+    "devDependencies": {
+        "mocha": "^8.1.3"
+    }
+}
